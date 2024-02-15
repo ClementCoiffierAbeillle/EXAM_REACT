@@ -4,7 +4,7 @@ import App from "../App";
 import ErrorPage from "../pages/404";
 import Home from "../pages/home";
 import MentionLegales from "../pages/mentionsLegales";
-import DetailPokemon from "../pages/detailFilm";
+import DetailFilm from "../pages/detailFilm";
 
 const router = createBrowserRouter([
   {
